@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍🌾 Vicente Vázquez Fuentes  
+# Vicente Vázquez Fuentes  
 ### 🌱 Agrónomo · Agroecología · Restauración Ecológica · Agricultura Regenerativa
 
 </div>
